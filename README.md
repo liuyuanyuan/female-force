@@ -8,6 +8,7 @@ Putting the project on Github is my first step in my power(BTW, Github not only 
 ## Lean in 《向前一步》
 [Introduce 简介](https://github.com/liuyuanyuan/female-force/blob/master/LeanIn/LeanIn_intro)
 
+## Option B 《B选项》
 
 ## Rising to the challenge 《直面挑战》
 
